@@ -1,7 +1,7 @@
 import { Component, signal } from '@angular/core';
 
 @Component({
-  selector: 'app-signal-box-component',
+  selector: 'signal-box-component',
   imports: [],
   templateUrl: './signal-box-component.html',
   styleUrl: './signal-box-component.css',
