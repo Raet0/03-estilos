@@ -40,8 +40,8 @@
                 }
               ],
               "outputHashing": "all",
-              "baseHref": "/03-ui-componentes-estilos/",
-              "deployUrl": "/03-ui-componentes-estilos/"
+              "baseHref": "/03-estilos/",
+              "deployUrl": "/03-estilos/"
             },
             "development": {
               "optimization": false,
