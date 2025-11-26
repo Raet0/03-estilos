@@ -11,18 +11,18 @@ export const routes: Routes = [
   // }, 
   {
     path:"",
-    component: DaisyuiPage
+    component: DaisyuiPage,
   },
   {
     path:"estilos",
-    component: EstilosPage
+    component: EstilosPage,
   },
   {
     path:"simpsons-page",
-    component: SimpsonsPage
+    component: SimpsonsPage,
   },
   {
     path:"simpsons-page/:id",
-    component: SimpsonDetailPageComponent
-  },
+    component: SimpsonDetailPageComponent,
+  }
 ];
