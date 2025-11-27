@@ -16,7 +16,7 @@ export class ThemeSwitcher {
   }
 
   // Temas disponibles
-  themes = ['light', 'dark', 'coffee'];
+  themes = ['light', 'dark', 'forest'];
   readonly themeRepository = inject(ThemeRepository);
 
   // Tema actual reactivo
